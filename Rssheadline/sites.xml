@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sites>
+<url>https://news.google.com/atom?hl=ja&amp;gl=JP&amp;ceid=JP:ja</url>
+<url>https://news.yahoo.co.jp/pickup/rss.xml</url>
+<url>http://feeds.cnn.co.jp/rss/cnn/cnn.rdf</url>
+<url>http://feeds.japan.zdnet.com/rss/zdnet/all.rdf</url>
+<url>http://feeds.japan.cnet.com/rss/cnet/all.rdf</url>
+<url>http://gigazine.net/news/rss_2.0/</url>
+<url>https://jp.techcrunch.com/feed/</url>
+<url>https://www.gamespark.jp/rss/index.rdf</url>
+<url>https://doope.jp/feed/</url>
+</sites>
